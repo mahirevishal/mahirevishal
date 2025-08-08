@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there! I'm Vishal Suresh Mahire
 
-<!--
-**mahirevishal/mahirevishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Data Engineer** | 3+ years of experience  
+💼 Azure | PySpark | Databricks | ETL | SQL | Big Data  
+🌍 From Dhule, Maharashtra, India  
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔧 I design scalable data pipelines for cloud-based analytics solutions.
+- 🏢 I've worked in Banking, Healthcare, and Logistics domains.
+- 🌐 Experienced in Azure Data Factory, Synapse, Data Lakes, and more.
+- 🧠 Passionate about automation, data quality, and performance optimization.
+
+## 🔧 Tech Stack
+
+```yaml
+Languages: Python, SQL  
+Cloud: Azure (Data Lake, Data Factory, Synapse), AWS  
+Big Data: Databricks, PySpark, ETL  
+Tools: Power BI, Git, Docker  
+Databases: Azure SQL DB, NoSQL, MongoDB
