@@ -1,15 +1,19 @@
-# 👋 Hi there! I'm Vishal Suresh Mahire
+<h1 align="center">Hi 👋, I'm Vishal</h1>
+<h3 align="center">Azure Data Engineer | ADF • Databricks • Synapse • Python • PySpark • SQL</h3>
 
-🎯 **Data Engineer** | 3+ years of experience  
-💼 Azure | PySpark | Databricks | ETL | SQL | Big Data  
-🌍 From Dhule, Maharashtra, India  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Building+Data+Pipelines+on+Azure!;Medallion+Architecture+Practitioner;Open+to+Freelance+Opportunities!" alt="Typing SVG" />
+</p>
 
-## 🚀 About Me
+---
 
-- 🔧 I design scalable data pipelines for cloud-based analytics solutions.
-- 🏢 I've worked in Banking, Healthcare, and Logistics domains.
-- 🌐 Experienced in Azure Data Factory, Synapse, Data Lakes, and more.
-- 🧠 Passionate about automation, data quality, and performance optimization.
+🌟 **About Me**
+
+- 🔭 I’m currently working as a **Data Engineer** at HTC Global Services  
+- 🌱 I’m learning more about **Cloud Cost Optimization & Delta Live Tables**
+- 💬 Ask me about anything in **ADF, Databricks, Synapse, Delta Lake**
+- 🧑‍💻 I build data pipelines with **Medallion Architecture**
+- 🧠 I'm preparing for **DP-203 (Azure Data Engineer Associate)**
 
 ## 🔧 Tech Stack
 
