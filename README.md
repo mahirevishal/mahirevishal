@@ -7,13 +7,15 @@
 
 ---
 
-🌟 **About Me**
+🌟 About Me
 
-- 🔭 I’m currently working as a **Data Engineer** at HTC Global Services  
-- 🌱 I’m learning more about **Cloud Cost Optimization & Delta Live Tables**
-- 💬 Ask me about anything in **ADF, Databricks, Synapse, Delta Lake**
-- 🧑‍💻 I build data pipelines with **Medallion Architecture**
-- 🧠 I'm preparing for **DP-203 (Azure Data Engineer Associate)**
+- 👨‍💼 I’m a **Data Engineer with 4+ years of experience** in designing and building scalable data solutions  
+- 🏢 Currently working at **HTC Global Services**  
+- 🌱 Learning more about **Cloud Cost Optimization** & **Delta Live Tables**  
+- 💬 Ask me anything about **ADF, Databricks, Synapse, Delta Lake**  
+- 🏗️ I build robust pipelines using **Medallion Architecture**  
+- 🧠 Preparing for **DP-203 (Azure Data Engineer Associate)**  
+
 
 ## 🔧 Tech Stack
 
