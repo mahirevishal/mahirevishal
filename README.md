@@ -17,7 +17,7 @@
 
 ## 🔧 Tech Stack
 
-```yaml
+
 Languages: Python, SQL  
 Cloud: Azure (Data Lake, Data Factory, Synapse), AWS  
 Big Data: Databricks, PySpark, ETL  
