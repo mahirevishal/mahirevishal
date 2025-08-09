@@ -24,9 +24,42 @@ Big Data: Databricks, PySpark, ETL
 Tools: Power BI, Git, Docker  
 Databases: Azure SQL DB, NoSQL, MongoDB
 
-## 🔗 Connect with me
+# Hi 👋, I'm Vishal
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/m-vishal-suresh-920422376/)
-[![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/vishal_mahire/)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/vishal_mahire)
+**Azure Data Engineer | ADF • Databricks • Synapse • Python • PySpark • SQL**  
+*Medallion Architecture Practitioner*
+
+---
+
+### 💡 About Me
+
+- 👨‍💻 Currently working as a Data Engineer at HTC Global Services  
+- 🌱 Learning more about **Cloud Cost Optimization** & **Delta Live Tables**  
+- 💬 Ask me anything about **ADF, Databricks, Synapse, Delta Lake**  
+- 🏗️ Building data pipelines with **Medallion Architecture**  
+- 🎯 Preparing for **DP-203 (Azure Data Engineer Associate)**  
+
+---
+
+### ⚙️ Tech Stack
+
+**Languages:** Python, SQL  
+**Cloud:** Azure (Data Lake, Data Factory, Synapse), AWS  
+**Big Data:** Databricks, PySpark, ETL  
+**Tools:** Power BI, Git, Docker  
+**Databases:** Azure SQL DB, NoSQL, MongoDB  
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-vishal-suresh-920422376/)  
+[![X](https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vishu_mahire)
+
+</div>
+
+---
+
 
