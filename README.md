@@ -17,18 +17,19 @@
 - 🧠 Preparing for **DP-203 (Azure Data Engineer Associate)**  
 
 
-## 🔧 Tech Stack
+### ⚙️ Tech Stack
 
+**Languages:** **Python**, **SQL**  
+**Cloud:** **Azure** (Data Lake, Data Factory, Synapse), **AWS**  
+**Big Data:** **Databricks**, **PySpark**, **ETL**  
+**Tools:** **Power BI**, **Git**, **Docker**  
+**Databases:** **Azure SQL DB**, **NoSQL**, **MongoDB**
 
-Languages: Python, SQL  
-Cloud: Azure (Data Lake, Data Factory, Synapse), AWS  
-Big Data: Databricks, PySpark, ETL  
-Tools: Power BI, Git, Docker  
-Databases: Azure SQL DB, NoSQL, MongoDB
+---
 
-
-**Azure Data Engineer | ADF • Databricks • Synapse • Python • PySpark • SQL**  
+**Experienced Data Engineer (4+ Yrs)** | **ADF** • **Databricks** • **Synapse** • **Python** • **PySpark** • **SQL**  
 *Medallion Architecture Practitioner*
+
 
 
 ### 🌐 Connect with Me
