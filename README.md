@@ -28,17 +28,7 @@ Databases: Azure SQL DB, NoSQL, MongoDB
 **Azure Data Engineer | ADF • Databricks • Synapse • Python • PySpark • SQL**  
 *Medallion Architecture Practitioner*
 
----
 
-## 💡 About Me
-
-- 👨‍💻 Currently working as a Data Engineer at HTC Global Services  
-- 🌱 Learning more about **Cloud Cost Optimization** & **Delta Live Tables**  
-- 💬 Ask me anything about **ADF, Databricks, Synapse, Delta Lake**  
-- 🏗️ Building data pipelines with **Medallion Architecture**  
-- 🎯 Preparing for **DP-203 (Azure Data Engineer Associate)**  
-
----
 
  ## ⚙️ Tech Stack
 
