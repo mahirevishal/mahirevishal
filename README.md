@@ -27,12 +27,6 @@
 **Tools:** **Power BI**, **Git**, **Docker**  
 **Databases:** **Azure SQL DB**, **NoSQL**, **MongoDB**
 
----
-
-**ADF** • **Databricks** • **Synapse** • **Python** • **PySpark** • **SQL**  
-*Medallion Architecture Practitioner*
-
-
 
 ### 🌐 Connect with Me
 
