@@ -55,7 +55,7 @@ Databases: Azure SQL DB, NoSQL, MongoDB
 
 <div align="left">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-vishal-suresh-920422376/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishalmahire)  
 [![X](https://img.shields.io/badge/X-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/vishu_mahire)
 
 </div>
