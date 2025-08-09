@@ -27,6 +27,26 @@
 **Tools:** **Power BI**, **Git**, **Docker**  
 **Databases:** **Azure SQL DB**, **NoSQL**, **MongoDB**
 
+### 🚀 My Projects
+
+<p align="center">
+  <a href="https://github.com/mahirevishal/azure-logistics-data-pipeline" target="_blank" rel="noopener noreferrer">
+    <img alt="Azure Logistics Data Pipeline" src="https://img.shields.io/badge/-Azure_Logistics_Data_Pipeline-0A66C2?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mahirevishal/healthcare-insurance-etl-data-pipeline" target="_blank" rel="noopener noreferrer">
+    <img alt="Healthcare Insurance ETL Data Pipeline" src="https://img.shields.io/badge/-Healthcare_Insurance_ETL_Data_Pipeline-0078D4?style=for-the-badge&logo=azuredevops&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/mahirevishal/financial-etl-pipeline" target="_blank" rel="noopener noreferrer">
+    <img alt="Financial ETL Pipeline" src="https://img.shields.io/badge/-Financial_ETL_Pipeline-F96854?style=for-the-badge&logo=databricks&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  Explore my work and contributions! 💻✨
+</p>
+
 
 ### 🌐 Connect with Me
 
