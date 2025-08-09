@@ -24,14 +24,14 @@ Big Data: Databricks, PySpark, ETL
 Tools: Power BI, Git, Docker  
 Databases: Azure SQL DB, NoSQL, MongoDB
 
-# Hi 👋, I'm Vishal
+ Hi 👋, I'm Vishal
 
 **Azure Data Engineer | ADF • Databricks • Synapse • Python • PySpark • SQL**  
 *Medallion Architecture Practitioner*
 
 ---
 
-### 💡 About Me
+💡 About Me
 
 - 👨‍💻 Currently working as a Data Engineer at HTC Global Services  
 - 🌱 Learning more about **Cloud Cost Optimization** & **Delta Live Tables**  
@@ -41,7 +41,7 @@ Databases: Azure SQL DB, NoSQL, MongoDB
 
 ---
 
-### ⚙️ Tech Stack
+ ⚙️ Tech Stack
 
 **Languages:** Python, SQL  
 **Cloud:** Azure (Data Lake, Data Factory, Synapse), AWS  
