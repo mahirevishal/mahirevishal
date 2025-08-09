@@ -29,7 +29,7 @@
 
 ---
 
-**Experienced Data Engineer (4+ Yrs)** | **ADF** • **Databricks** • **Synapse** • **Python** • **PySpark** • **SQL**  
+**ADF** • **Databricks** • **Synapse** • **Python** • **PySpark** • **SQL**  
 *Medallion Architecture Practitioner*
 
 
