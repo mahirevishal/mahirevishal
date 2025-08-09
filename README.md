@@ -29,17 +29,6 @@ Databases: Azure SQL DB, NoSQL, MongoDB
 *Medallion Architecture Practitioner*
 
 
-
- ## ⚙️ Tech Stack
-
-**Languages:** Python, SQL  
-**Cloud:** Azure (Data Lake, Data Factory, Synapse), AWS  
-**Big Data:** Databricks, PySpark, ETL  
-**Tools:** Power BI, Git, Docker  
-**Databases:** Azure SQL DB, NoSQL, MongoDB  
-
----
-
 ### 🌐 Connect with Me
 
 <div align="left">
