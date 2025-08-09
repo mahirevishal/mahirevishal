@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Vishal</h1>
-<h3 align="center">Azure Data Engineer | ADF • Databricks • Synapse • Python • PySpark • SQL</h3>
+<h3 align="center">Data Engineer with 4+ Years of Experience</h3>
+<h4 align="center">Azure | ADF • Databricks • Synapse • Python • PySpark • SQL</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Building+Data+Pipelines+on+Azure!;Medallion+Architecture+Practitioner;Open+to+Freelance+Opportunities!" alt="Typing SVG" />
 </p>
 
 ---
+
 
 🌟 About Me
 
