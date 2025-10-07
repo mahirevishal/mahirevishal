@@ -14,7 +14,7 @@
 - 👨‍💼 I’m a **Data Engineer with 4+ years of experience** in designing and building scalable data solutions  
 - 🏢 Currently working at **HTC Global Services**  
 - 🌱 Learning more about **Cloud Cost Optimization** & **Delta Live Tables**  
-- 💬 Ask me anything about **ADF, Pyspark, Databricks, Delta Lake, Synapse**  
+- 💬 Ask me anything about **ADF, Databricks, Delta Lake, Synapse**  
 - 🏗️ I build robust pipelines using **Medallion Architecture**  
 - 🧠 Preparing for **DP-203 (Azure Data Engineer Associate)**  
 
