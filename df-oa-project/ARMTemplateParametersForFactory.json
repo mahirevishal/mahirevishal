@@ -1,0 +1,27 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "df-oa-project"
+		},
+		"LS_DataLakeStorage_accountKey": {
+			"value": ""
+		},
+		"Ls_AzureSqlDB_password": {
+			"value": ""
+		},
+		"LS_DataLakeStorage_properties_typeProperties_url": {
+			"value": "https://oapstoragevish.dfs.core.windows.net/"
+		},
+		"Ls_AzureSqlDB_properties_typeProperties_server": {
+			"value": "oaprojectserver.database.windows.net"
+		},
+		"Ls_AzureSqlDB_properties_typeProperties_database": {
+			"value": "oapsqldb"
+		},
+		"Ls_AzureSqlDB_properties_typeProperties_userName": {
+			"value": "adminvish"
+		}
+	}
+}
