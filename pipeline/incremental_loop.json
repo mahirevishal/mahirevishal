@@ -34,6 +34,8 @@
 						{
 							"name": "IfIncrementalData",
 							"type": "IfCondition",
+							"state": "Active",
+							"onInactiveMarkAs": "Succeeded",
 							"dependsOn": [
 								{
 									"activity": "AzureSQLToLake",
