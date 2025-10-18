@@ -19,13 +19,13 @@
 							"type": "Copy",
 							"dependsOn": [
 								{
-									"activity": "last_cdc",
+									"activity": "current",
 									"dependencyConditions": [
 										"Succeeded"
 									]
 								},
 								{
-									"activity": "current",
+									"activity": "last_cdc",
 									"dependencyConditions": [
 										"Succeeded"
 									]
@@ -91,45 +91,6 @@
 									}
 								}
 							]
-						},
-						{
-							"name": "last_cdc",
-							"type": "Lookup",
-							"dependsOn": [],
-							"policy": {
-								"timeout": "0.12:00:00",
-								"retry": 0,
-								"retryIntervalInSeconds": 30,
-								"secureOutput": false,
-								"secureInput": false
-							},
-							"userProperties": [],
-							"typeProperties": {
-								"source": {
-									"type": "JsonSource",
-									"storeSettings": {
-										"type": "AzureBlobFSReadSettings",
-										"recursive": true,
-										"enablePartitionDiscovery": false
-									},
-									"formatSettings": {
-										"type": "JsonReadSettings"
-									}
-								},
-								"dataset": {
-									"referenceName": "json_dynamic_new",
-									"type": "DatasetReference",
-									"parameters": {
-										"container": "bronze",
-										"folder": {
-											"value": "@{item().table}_cdc",
-											"type": "Expression"
-										},
-										"file": "cdc.json"
-									}
-								},
-								"firstRowOnly": false
-							}
 						},
 						{
 							"name": "current",
@@ -317,6 +278,45 @@
 										}
 									}
 								]
+							}
+						},
+						{
+							"name": "last_cdc",
+							"type": "Lookup",
+							"dependsOn": [],
+							"policy": {
+								"timeout": "0.12:00:00",
+								"retry": 0,
+								"retryIntervalInSeconds": 30,
+								"secureOutput": false,
+								"secureInput": false
+							},
+							"userProperties": [],
+							"typeProperties": {
+								"source": {
+									"type": "JsonSource",
+									"storeSettings": {
+										"type": "AzureBlobFSReadSettings",
+										"recursive": true,
+										"enablePartitionDiscovery": false
+									},
+									"formatSettings": {
+										"type": "JsonReadSettings"
+									}
+								},
+								"dataset": {
+									"referenceName": "json_dynamic_new",
+									"type": "DatasetReference",
+									"parameters": {
+										"container": "bronze",
+										"folder": {
+											"value": "@{item().table}_cdc",
+											"type": "Expression"
+										},
+										"file": "cdc.json"
+									}
+								},
+								"firstRowOnly": false
 							}
 						}
 					]
