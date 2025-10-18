@@ -326,7 +326,33 @@
 		"parameters": {
 			"loop_input": {
 				"type": "array",
-				"defaultValue": "[   {   \"schema\":\"dbo\"   \"table\":\"DimUser\"   \"from_date\":\"\" }, {   \"schema\":\"dbo\"   \"table\":\"DimTrack\"   \"from_date\":\"\" }, {   \"schema\":\"dbo\"   \"table\":\"DimArtist\"   \"from_date\":\"\" }, {   \"schema\":\"dbo\"   \"table\":\"DimDate\"   \"from_date\":\"\" },  {   \"schema\":\"dbo\"   \"table\":\"FactStream\"   \"from_date\":\"\" } ]"
+				"defaultValue": [
+					{
+						"schema": "dbo",
+						"table": "DimUser",
+						"from_date": ""
+					},
+					{
+						"schema": "dbo",
+						"table": "DimTrack",
+						"from_date": ""
+					},
+					{
+						"schema": "dbo",
+						"table": "DimArtist",
+						"from_date": ""
+					},
+					{
+						"schema": "dbo",
+						"table": "DimDate",
+						"from_date": ""
+					},
+					{
+						"schema": "dbo",
+						"table": "FactStream",
+						"from_date": ""
+					}
+				]
 			}
 		},
 		"variables": {
